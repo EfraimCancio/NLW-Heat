@@ -2,7 +2,7 @@ const LinksSocialMedia = {
     github: "EfraimCancio",
     youtube: "watch?v=teUHaLjReQ0",
     facebook:"efraim.cancio",
-    instagran: "efraimfonseca",
+    instagram: "efraimfonseca",
     twitter: "jakelinytec"
 }
 
